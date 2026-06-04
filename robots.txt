@@ -1,16 +1,4 @@
-# robots.txt for Purnima KC Portfolio
-# https://purnimakc.netlify.app/robots.txt
-
 User-agent: *
 Allow: /
 
-# Block access to any future admin or private folders
-Disallow: /admin/
-Disallow: /private/
-Disallow: /.git/
-
-# Crawl rate (polite crawling)
-Crawl-delay: 5
-
-# Sitemap location
 Sitemap: https://purnimakc.netlify.app/sitemap.xml
