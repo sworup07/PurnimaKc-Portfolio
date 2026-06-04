@@ -1,9 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://purnimakc.netlify.app/</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.00</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  Homepage / Hero  -->
+<url>
+<loc>https://purnimakc.netlify.app/</loc>
+<lastmod>2026-06-04</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.00</priority>
+</url>
+<!--  About section  -->
+<url>
+<loc>https://purnimakc.netlify.app/#about</loc>
+<lastmod>2026-06-04</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.80</priority>
+</url>
+<!--  Skills section  -->
+<url>
+<loc>https://purnimakc.netlify.app/#skills</loc>
+<lastmod>2026-06-04</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+</url>
+<!--  Projects section  -->
+<url>
+<loc>https://purnimakc.netlify.app/#projects</loc>
+<lastmod>2026-06-04</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.80</priority>
+</url>
+<!--  Achievements section  -->
+<url>
+<loc>https://purnimakc.netlify.app/#achievements</loc>
+<lastmod>2026-06-04</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+</url>
+<!--  Contact section  -->
+<url>
+<loc>https://purnimakc.netlify.app/#contact</loc>
+<lastmod>2026-06-04</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.60</priority>
+</url>
 </urlset>
